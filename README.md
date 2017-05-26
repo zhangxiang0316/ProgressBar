@@ -2,6 +2,7 @@
 进度条
 
 ##属性值
+``` xml
  <declare-styleable name="HorizontalProgressBar">
          <attr name="text_color" format="color"/>文字颜色
          <attr name="text_size" format="dimension"/> 文字大小
