@@ -3,7 +3,7 @@
 
 ![image](https://github.com/zhangxiang0316/ProgressBar/blob/master/raw/QQ图片20170526105856.png)
 
-##属性值
+## 属性值
 ``` xml
  <declare-styleable name="HorizontalProgressBar">
          <attr name="text_color" format="color"/>文字颜色
