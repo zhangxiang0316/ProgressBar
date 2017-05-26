@@ -1,6 +1,8 @@
 # ProgressBar
 进度条
 
+![image](https://github.com/zhangxiang0316/ProgressBar/blob/master/raw/QQ图片20170526105856.png)
+
 ##属性值
 ``` xml
  <declare-styleable name="HorizontalProgressBar">
@@ -14,5 +16,4 @@
      </declare-styleable>
 
 
-![image](https://github.com/zhangxiang0316/ProgressBar/blob/master/raw/QQ图片20170526105856.png)
 
